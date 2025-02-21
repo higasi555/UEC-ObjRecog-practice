@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="79e2a6d2-4361-4948-9a73-7ce3dad710df" name="変更" comment="fix: print諸々微修正" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2qX9sFbnI38Nsaqf3pYbzPqwa4E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;MATLAB_INTERPRETER&quot;: &quot;D:\\40_Dev\\MATLAB\\R2024b\\bin\\matlab.exe&quot;,
+    &quot;Matlab.clustering.m.executor&quot;: &quot;Run&quot;,
+    &quot;Matlab.codebook.m.executor&quot;: &quot;Run&quot;,
+    &quot;Matlab.main.m.executor&quot;: &quot;Run&quot;,
+    &quot;Matlab.test.m.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/33_Dev/2024-18_HyperMD/HyperMD&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\70_Cloud\pCloud\10_UEC\3年_H2\B-4_物体認識論\IntelliJ_project\bof_feature" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\70_Cloud\pCloud\10_UEC\3年_H2\B-4_物体認識論\IntelliJ_project\bof_feature" />
+      <recent name="D:\70_Cloud\pCloud\10_UEC\3年_H2\B-4_物体認識論\IntelliJ_project\bof_feature\+clustering" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="default" type="MatlabApplication">
+      <option name="FILE_PATH" value="" />
+      <option name="INTERPRETER_PATH" value="D:\40_Dev\MATLAB\R2024b\bin\matlab.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="PARAMETERS" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="アプリケーションレベル" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="デフォルトタスク">
+      <changelist id="79e2a6d2-4361-4948-9a73-7ce3dad710df" name="変更" comment="" />
+      <created>1734798258661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734798258661</updated>
+      <workItem from="1734798259732" duration="61000" />
+      <workItem from="1734798330194" duration="28967000" />
+      <workItem from="1735019440403" duration="5621000" />
+      <workItem from="1735387788655" duration="24000" />
+      <workItem from="1736758890599" duration="863000" />
+      <workItem from="1736772200359" duration="660000" />
+      <workItem from="1736775210667" duration="667000" />
+      <workItem from="1736786300844" duration="14000" />
+      <workItem from="1736786318928" duration="2743000" />
+      <workItem from="1736789987696" duration="49000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1734833724728</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734833724728</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1734833738738</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734833738738</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: クラスタリングの一連の流れを実装">
+      <option name="closed" value="true" />
+      <created>1734838164387</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734838164387</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: Nearest Neighborによる分類を実装">
+      <option name="closed" value="true" />
+      <created>1734838522000</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1734838522000</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: 演習第4回が完了">
+      <option name="closed" value="true" />
+      <created>1735019499720</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735019499720</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat: 演習第4回のmain関数群を、ex4()へ移動">
+      <option name="closed" value="true" />
+      <created>1735019587505</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1735019587505</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat: img_listを、ラベル付きのものが出る関数に拡張">
+      <option name="closed" value="true" />
+      <created>1735020429620</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1735020429620</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat: classificationの実装。とりあえず、すべてtrainingとtestは同一データ">
+      <option name="closed" value="true" />
+      <created>1735020949203</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1735020949203</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat: codebookを、任意のファイル名で保存できるよう変更">
+      <option name="closed" value="true" />
+      <created>1735022627192</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1735022627192</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feat: classificationについて、とりあえず実装">
+      <option name="closed" value="true" />
+      <created>1735023494551</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1735023494551</updated>
+    </task>
+    <task id="LOCAL-00011" summary="feat: 一応全部実装。featuremapsをsvmを呼び出す形に変更する前段階">
+      <option name="closed" value="true" />
+      <created>1736788059344</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1736788059344</updated>
+    </task>
+    <task id="LOCAL-00012" summary="feat: 演習5回全ての実装が完了">
+      <option name="closed" value="true" />
+      <created>1736789084569</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1736789084569</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fix: print諸々微修正">
+      <option name="closed" value="true" />
+      <created>1736790001945</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1736790001945</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="feat: クラスタリングの一連の流れを実装" />
+    <MESSAGE value="feat: Nearest Neighborによる分類を実装" />
+    <MESSAGE value="feat: 演習第4回が完了" />
+    <MESSAGE value="feat: 演習第4回のmain関数群を、ex4()へ移動" />
+    <MESSAGE value="feat: img_listを、ラベル付きのものが出る関数に拡張" />
+    <MESSAGE value="feat: classificationの実装。とりあえず、すべてtrainingとtestは同一データ" />
+    <MESSAGE value="feat: codebookを、任意のファイル名で保存できるよう変更" />
+    <MESSAGE value="feat: classificationについて、とりあえず実装" />
+    <MESSAGE value="feat: 一応全部実装。featuremapsをsvmを呼び出す形に変更する前段階" />
+    <MESSAGE value="feat: 演習5回全ての実装が完了" />
+    <MESSAGE value="fix: print諸々微修正" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: print諸々微修正" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
